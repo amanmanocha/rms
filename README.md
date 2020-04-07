@@ -1,4 +1,4 @@
-##Note 
+## Note 
 I could not finish the tests and want to do one round of refactoring on it. I will get time later tonight to finish it.
 
 Simple relations management system in Scala and Akka.
